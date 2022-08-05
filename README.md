@@ -1,7 +1,7 @@
 # 概要
 Java-Challenge-２でProductクラスを作成して、３つのインスタンスを生成し（getter、setter、for、if、List、 stream）を使用して、コンソール出力しております。　
 
-# コンソール結果
+# コンソール出力結果
 
 <img width="1440" alt="Java課題2" src="https://user-images.githubusercontent.com/90845405/183047956-3c11ff9d-1b44-4757-8527-98dab2f3fae0.png">
 
