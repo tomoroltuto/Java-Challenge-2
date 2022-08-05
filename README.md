@@ -8,3 +8,7 @@ Version: 2022-06 M2 (4.24.0 M2)
 
 # 実行環境
 JavaSE-17
+
+# コンソール結果
+
+<img width="1440" alt="Java課題2" src="https://user-images.githubusercontent.com/90845405/183047956-3c11ff9d-1b44-4757-8527-98dab2f3fae0.png">
